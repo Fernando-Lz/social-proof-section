@@ -44,7 +44,7 @@
 @media (max-width: 57em) {
   .container{
     grid-template-columns: 1fr;
-    width: 80%;
+    max-width: 90%;
     margin: 0 auto;
     text-align: center;
   }
